@@ -18,7 +18,7 @@ Se utilizaron como proxy del momento de ocurrencia las variables llamadas "fecha
 Este es un proyecto que pretende cambiar y adaptarse para poder visualizar las tendencias de la ocurrencia de estos incidentes de la mejor manera. 
 Son bienvenidas sugerencias. Pueden contactarme en [twitter](https://twitter.com/Ar_GonTr)
 
-También pueden checar un proyecto que estoy iniciando de tutoriales, y donde posteriormente subiré el código que creó esta app [en mi página en wix:](https://tcargon.wixsite.com/website)
+También pueden checar un proyecto que estoy iniciando de tutoriales, y donde posteriormente subiré el código que creó esta app [en mi página en wix](https://tcargon.wixsite.com/website)
 
 
 #### Créditos
